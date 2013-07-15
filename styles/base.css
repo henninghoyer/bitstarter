@@ -1,16 +1,12 @@
 body {
-  padding-top: 20px;
+  padding-top: 60px; /*account for hidden area underneath collapsible navbar*/
   padding-bottom: 20px;
 }
 
-.container {
-  width: 960px;
+.heading, .subheading {
+  text-align: center;
 }
-
-p.lead {
-  padding-top: 15px;
-}
-
+/*
 .navigation, .pitch, .section1, .section2, .faq, .footer {
   padding: 10px 0px;
 }
@@ -32,4 +28,4 @@ p.lead {
 
 div.row {
   border: 1px solid;
-}
+}*/
